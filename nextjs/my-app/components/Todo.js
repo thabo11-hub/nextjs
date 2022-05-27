@@ -11,7 +11,7 @@ function Todo() {
   };
   return (
     <div className={styles.maincont}>
-      <h1>Todo App</h1>
+      <h2>Todo App using Next JS</h2>
       <div className={styles.newtodo}>
         <h3>Add new todo</h3>
         <div className={styles.semi}>
